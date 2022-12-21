@@ -2,13 +2,12 @@ from torch.utils.data import Dataset
 from transformers import AutoTokenizer, AutoModelWithLMHead
 import os
 import json
-tokenizer = AutoTokenizer.from_pretrained("t5-base")
 
 DATA_DIR = "/home/mjkim/nas/Projects/paper_title_generation/data"
 
 class TitleDataset(Dataset):
-    def __init__(self, split, enc_max_len=512, dec_max_len=50):
-        self.tokenizer = AutoTokenizer.from_pretrained("facebook/bart-large")
+    def __init__(self, split, model_name, enc_max_len=512, dec_max_len=50):
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.split = split
         self.enc_max_len = enc_max_len
         self.dec_max_len = dec_max_len

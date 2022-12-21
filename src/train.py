@@ -14,8 +14,7 @@ import argparse
 def get_parser():
     parser = argparse.ArgumentParser()
     # Training hyperparameters
-    parser.add_argument("--include_topic_card", type=bool)
-    parser.add_argument('--epoch', type=int, default=10)
+    parser.add_argument('--epoch', type=int, default=3)
     parser.add_argument('--train_batch_size', type=int, default=64)
     #parser.add_argument('--display_step',type=int, default=2000)
     parser.add_argument('--val_batch_size',type=int, default=32)
@@ -132,9 +131,9 @@ if __name__=="__main__":
         report_to = 'wandb',
         # include_inputs_for_metrics=True,
     )
-    train_dataset = TitleDataset("train")
-    eval_dataset = TitleDataset("valid")
-    test_dataset = TitleDataset("test")
+    train_dataset = TitleDataset("train", args.model_name)
+    eval_dataset = TitleDataset("valid", args.model_name)
+    test_dataset = TitleDataset("test", args.model_name)
 
     finetune_trainer = Seq2SeqTrainer(
         model = finetune_model,

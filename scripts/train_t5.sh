@@ -1,0 +1,26 @@
+deepspeed --include localhost:4,5,6,7 --master_port 30000 paper_title_generation/src/train_t5.py \
+    --deepspeed paper_title_generation/ds_config_zero2.json \
+    --model_name_or_path t5-$1 \
+    --validation_file paper_title_generation/data/validation_t5.json \
+    --test_file paper_title_generation/data/test_t5.json\
+    --source_prefix "" \
+    --output_dir paper_title_generation/checkpoints/t5_$1_s2_bs64_fp16 \
+    --overwrite_output_dir \
+    --gradient_accumulation_steps=2 \
+    --per_device_train_batch_size $2 \
+    --per_device_eval_batch_size 16 \
+    --max_source_length 512 \
+    --max_target_length 100 \
+    --text_column abstract --summary_column title \
+    --save_strategy epoch \
+    --num_train_epochs 3 \
+    --learning_rate 1e-5 \
+    --logging_steps 20 \
+    --report_to wandb \
+    --do_predict \
+    --predict_with_generate \
+    --include_inputs_for_metrics \
+    --fp16 \
+    --do_train \
+    --train_file paper_title_generation/data/train_t5.json \
+    --evaluation_strategy epoch 

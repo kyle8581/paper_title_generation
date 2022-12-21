@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -m paper_title_generation.src.inference --checkpoint_path="paper_title_generation/checkpoints/bartbase" --model_name="facebook/bart-large"

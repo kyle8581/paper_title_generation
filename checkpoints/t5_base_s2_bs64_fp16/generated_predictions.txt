@@ -1,0 +1,558 @@
+Standard autoregressive language models perform only polynomial-time computation to compute the probability of the next symbol.
+FeSTE: Few-Shot Transformer based Enrichment
+
+FastText: Learning Misspellings in Texts
+contextualized language models are being used to explain language learning in NLP.
+MS2 (Multi-Document Summarization of Medical Studies) is a dataset of over 470k documents and 20K summaries derived from the scientific literature.
+Backdoor attacks are a kind of insidious security threat against machine learning models.
+Multilingual Neural Machine Translation (MNMT) - A Multilingual Neural Machine Translation
+GFST improves gender translation accuracy on unambiguously gendered inputs.
+
+Event-Centric Indicator Measure
+Semantic-Emotion Knowledge Transferring (SEKT) for Cross-Target Stance Classifier
+Optimizing Passage Retrieval with Internal Representation Conflicts
+Detailed analysis on different matching strategies demonstrates that our proposed model consistently outperforms various baselines.
+Beam search is universally used in (full-sentence) machine translation but its application to simultaneous translation remains highly non-trivial.
+MaRGE: A Masked ROUGE Regression Framework for Evidence Estimation and Ranking
+Towards a Cross-Lingual Relation Classifier
+Using word spotting to confirm system guesses in a transcription approach.
+
+Pre-trained NLP models can be used to improve cross-lingual adaptation.
+Task-agnostic Pretraining Objectives for Summarization
+Towards a Multi-Decoder Framework for Speech Translation
+Global and Local Multimodal Multitask Network
+
+Simultaneous machine translation (SiMT) - Mixture-of-Experts Wait-k Policy
+
+Align-Refine is an end-to-end Transformer which iteratively realigns connectionist temporal classification (CTC) alignments.
+CryptoBubbles: A Novel Multi-Span Identification Task for Bubble Detection
+Expertise Style Transfer: a Manually Annotated Dataset
+Towards a more effective conversational question answering system, we propose a new follow-up question identification task.
+RankNAS: Neural Architecture Search
+Argument structure constructions in Transformer-based language models
+Multi-view Learning: A Novel Approach
+Fig-QA: a Winograd-style nonliteral language understanding task
+IAM is a dataset that can be applied to argument mining tasks. claims, stances, evidence, etc. are extracted from the dataset.
+Knowledge-intensive language tasks (KILT)
+An annotation approach to model argumentative discourse in student-written business model pitches
+Subjectivity is an important feature in question answering (QA).
+Using “prompt tuning,” we learn “soft prompts” to condition frozen language models to perform specific downstream tasks. our end-to-end learned approach outperforms GPT-3’s few-shot learning by a large margin.
+Pretrain-Finetune Diskrepancy in Multi-source Sequence Generation
+biaffine parser for entity relation extraction from visually rich documents
+Scalar implicatures are language features that imply the negation of stronger statements, e.g., “She was married twice” typically implicates that she was not married thrice.
+AISO is an adaptive information-seeking strategy for open-domain question answering.
+Active Learning for Binary Text Classification
+Sentiment Reversal: Text Style Transfer
+False
+Riemannian conjugate gradient algorithm for alignment learning
+Generation-Augmented Retrieval (GAR) for Answering Open-Domain Questions
+Sub-events in Social Media Streams
+VideoCLIP: A Contrasting Approach to Pre-train a unified Model for Zero-Shot Video and Text Understanding
+DPE is a dynamic programming algorithm for tokenizing sentences into subword units. DPE is a mixed character-subword transformer.
+Abstractive Text Summarization
+Data Maps is a model-based tool to characterize and diagnose datasets. the tool is based on the behavior of the model on individual instances during training.
+Abstractive summarization requires reasoning over source document to determine salient pieces of information scattered across long document. composing a concise summary requires a cohesive text by reconstructing these salient facts. in this paper, we adapt TP-Transformer (Schlag et al., 2019) with the explicitly compositional Tensor Product Representation (TPR) for the task of abstractive summarization.
+Unlabeled data carry rich task-relevant information, such as for few-shot learning of language model.
+a novel task of extracting representative helpful sentences from a set of reviews for a given product. a key advantage of shopping online is the ability to read what other customers are saying about products of interest.
+Adding Chit-Chat to ENhance Task-ORiented Dialogues
+CsaNMT: Continuous Semantic Augmentation
+Indic and Turkic languages are two language families where the writing systems differ but still share common features. However, the transfer is inhibited when the token overlap among source languages is small.
+
+KBs store structured knowledge that can support long range reasoning, text stores more comprehensive and timely knowledge in an unstructured way. how to jointly embed and reason with both knowledge sources to fully leverage complementary information is still largely an open problem.
+Neural networks are surprisingly good at interpolating and perform remarkably well when the training set examples resemble those in the test set. however, they are often unable to extrapolate patterns beyond the seen data.
+Semantic Relatedness: A Novel Approach to Text Spotting
+USR is an UnSupervised and Reference-free evaluation metric for dialog. USR is a reference-free metric that trains unsupervised models to measure several desirable properties of dialog.
+masked language modeling (MLM) as proxy task.
+We propose the novel Within-Between Relation model for recognizing lexical-semantic relations between words.
+Using auxiliary training signals from datasets designed to provide common sense grounding, we achieve improved common sense reasoning and state-of-the-art perplexity on the WritingPrompts (Fan et al., 2018).
+Using a target-word-aware model, we generate dictionary example sentences for targeted words.
+Using a variety of document embedding methods, we train simple gradient boosting classifiers on representations of an utterance and its surrounding discourse.
+Predicting the persuasiveness of arguments has applications as diverse as writing assistance, essay scoring, and advertising.
+ADVETA: Adversarial Table Perturbation
+BLUE Scores Increased in Task Oriented Dialogs
+Towards a Knowledge-Based Argumentation Framework
+QA datasets are learning reading comprehension by evaluating BERT-based models across five datasets. We evaluate models on their generalizability to out-of-domain examples, responses to missing or incorrect data, and ability to handle question variations.
+Pre-trained Language Models for Learning - Multi-Task Teacher-Student Framework
+D-MILN: Diversified Multiple Instance Learning Network
+False
+Community Question Answering (CQA) fora such as Stack Overflow and Yahoo! Answers contain a rich resource of answers to a wide range of community-based questions.
+Unsupervised relation discovery aims to discover new relations from a given text corpus without annotated data.
+NMT-Adapt: Denoising Autoencoding, Back-Translation and Contradiction
+
+GTR
+Towards a Transparency of Interpretability of Task-Oriented Dialogue Systems
+Hyperbolic and Co-graph Representation Method
+Using a case study dataset of real estate listings, we demonstrate the challenge of distinguishing highly correlated grounding terms, such as “kitchen” and “bedroom”.
+Pre-trained self-attention in large-scale pre-trained language models often correlate with human attention.
+passage-based question-answering (QA) is a new approach to finding the strongest supporting evidence. we train evidence agents to select the passage sentences that most convince QA models. human QA models can correctly answer questions with only 20% of the full passage.
+a simple bag-of-words embedding approach is the clear top performer when there are only a few dozen training instances or less. more complex models, such as BERT or CNN, require more training data to shine.
+GLUE: A Novel Approach to Compress BERT
+Recent studies have shown remarkable success in end-to-end task-oriented dialog system. However, most neural models rely on large training data.
+Probes are models devised to investigate the encoding of knowledge in contextual representations.
+ReadOnce Transformers: A Novel Approach to Representation of Text
+Neural network models for word segmentation
+.................................................
+Using Bayesian approximations, we find that biases exist in language models like BERT.
+MaskAugment: A Controllable Mechanism to Improve Domain Generalization for Dialogue Act Taggers
+Context-dependent semantic parsing: STAR for Follow-up Query Analysis
+BLEU - A novel sequence-tagging-based model for dialogue rewriting
+Knowledge Distillation: A Novel Protocol for transferring Teacher Knowledge
+Pretrain-finetune: A Pretrain-Finetune Framework
+Word embeddings have demonstrated strong performance on NLP tasks. However, lack of interpretability and the unsupervised nature of word embeddings have limited their use within computational social science and digital humanities.
+NLP is a powerful tool for detecting subtle differences between models. it is a powerful tool for detecting subtle differences between models.
+Value-aware Objectives for Attention-Aware Objectives
+CapsE: A Capse-Based Embedding Model for Relationship Triples
+SeqMix is a simple but effective data augmentation method to improve label efficiency of active sequence labeling.
+QA models trained with our word embedding perturbation are significantly outperform the baseline DA methods.
+Debiasing of NLU Tasks
+We report on search errors and model errors in neural machine translation (NMT).
+Towards a New Method for Neural Sequence Modeling
+MT-based machine translation has benefited from using synthetic training data originating from translating monolingual corpora, a technique known as backtranslation.
+
+Text style transfer (TST) is a well-known task whose goal is to convert the style of the text (e.g., from formal to informal) while preserving its content.
+selective SANs with selective mechanism have produced substantial improvements in various NLP tasks. selective SANs are implemented with a flexible and universal Gumbel-Softmax.
+Interactive summarization is a task that facilitates user-guided exploration of information within a document set.
+Open attribute value extraction for emerging entities is an important but challenging task.
+Chinese Spelling Check (CSC) is a challenging task due to the complex characteristics of Chinese characters.
+Event extraction for the biomedical domain is more challenging than that in the general news domain since it requires broader acquisition of domain-specific knowledge. To better encode contextual information and external background knowledge, we propose a new knowledge base-driven tree-structured long short-term memory networks.
+Deduplication of Language Modeling Datasets
+Dialog is a core building block of human natural language interactions.
+Bi-directional Spatio-Temporal Learning
+Concept graphs are created as universal taxonomies for text understanding in the open-domain knowledge. Concept graphs include both entities and concepts.
+Quark outperforms large-scale language models like BERT
+Hierarchical Topic Modeling
+Social media platforms have become an essential venue for online deliberation.
+Semi-supervised Learning of Structured Belief State
+
+Pre-Trained Models have been widely applied and recently proved vulnerable under backdoor attacks. when triggers are activated, even the fine-tuned model will predict pre-defined labels, causing a security threat.
+SongNet is a framework for generating text based on predefined rigid formats. the framework is designed to improve the text generation quality.
+Conversational agents trained on large unlabeled corpora of human interactions will learn patterns and mimic behaviors therein, which include offensive or otherwise toxic behavior.
+NFSTs are a family of finite-state string transducers. They are based on finite-state probabilities over pairs of strings.
+NER data sets often contain discontinuous mentions.
+Graphine: A Large-Scale Terminology Definition Dataset
+Multi-View Text Summarization
+In this paper, we consider several model-agnostic and model-specific explanation methods for CNNs for text classification.
+Story visualization is an underexplored task that falls at the intersection of computer vision and natural language processing.
+Span-Fact is a suite of two factual correction models. it leverages knowledge learned from question answering models to make corrections in system-generated abstractive summarization.
+WordDP: Certified Robustness against Word Substitution At- Tacks in Text Classification
+Conversational Machine Reading: A New Framework for Answering User Questions
+Attentional and Counterfactual based Natural Language Generation
+
+Feature norm datasets of human conceptual knowledge are important in neurolinguistic research on semantic cognition.
+contradiction
+Non-AutoRegressive (NAR) decoding for unsupervised text style transfer
+A-GCN: Attentional Convolutional Networks for Relation Extraction
+entmax transformation: a new language model for sparse text generation
+MPoSM can model arbitrary tag dependency and perform POS induction. despite mixed results, MPoSM achieves overall better performance.
+Towards Cross-lingual Word Embedding
+Pareto hypervolume: a probe metric for contextual word representations.
+.................................................
+Recurrent neural networks can learn to predict upcoming words remarkably well on average.
+We analyze several recent unsupervised constituency parsing models tuned with respect to the parsing F1 score on the Wall Street Journal development set (1,700 sentences). We introduce strong baselines for them, by training an existing supervised parsing model on the same labeled examples they access.
+
+Incorporating entities into neural generation models has demonstrated great improvements by helping to infer the summary topic and to generate coherent content.
+Using embedded phoneme representations, we can fine-tune a high-quality text-to-speech model on just 30 minutes of data in a previously unseen language spoken by a previously unseen speaker.
+Contrastive conditioning: a reference-free black-box method for detecting disambiguation errors.
+Paraphrase Knowledge: A Novel Approach to Question Generation
+Using a web-crawled general-language corpus, we can predict technicality across four domains.
+Commonsense reasoning aims to empower machines with the human ability to make presumptions about ordinary situations in our daily life.
+ProgModel: A Novel Progressive Slot Filling Model
+Aspect-based Sentiment Analysis (ABSA) - A Subtask of Sentiment Analysis
+Syntactic supervision for crosslingual SRL
+Attention-Based Explainion for Text Classification
+SwDA-IndirectAnswers
+Argumentation Mining: A New Approach to Argumentation Mining
+Unsere Analyse zeigt, dass unser Modell lernt, verschiedene Experten auf unterschiedliche Eingaben zu spezialisieren.
+
+ISAAQ is a transformer language model for text-only and diagram multiple choice questions.
+Distantly-supervised relation extraction with joint label embedding
+Multi-hop question generation - a controlled framework
+Using structured domain knowledge, we explore how to incorporate structured domain knowledge for the Medical NLI task.
+Document-level machine translation remains challenging due to the difficulty in efficiently using document context for translation. In this paper, we propose a hierarchical model to learn the global document context for document-level machine translation (NMT).
+Towards a more efficient approach to handle table-related tokens before the semantic parser
+WAE: Variational Autoencoder for Probabilistic Sentence Generation
+Distant supervision for Document-Level Relation Extraction
+LSTM Memory Neurons: A Novel metric for Label Prediction
+Towards a New Social Media Conversation Recommendation Framework
+
+Artificial Annotators: A Novel Approach to Natural Language Inference
+QA-GNN: a new model for answering questions using knowledge from pre-trained language models. relevance scoring and joint reasoning are key innovations. QA-GNN: a new model for answering questions using knowledge from pre-trained language models.
+Using a hierarchical encoder-decoder structure, we generate a sequence of belief states.
+Transformer-based Text Generation Framework - A Novel Framework for Table-to-Text Generating
+Zero-shot text classification (0Shot-TC) is a challenging NLU problem. i) The datasets we provide facilitate studying 0Shot-TC relative to conceptually different and diverse aspects. ii) The datasets we provide facilitate studying 0Shot-TC relative to diverse aspects within a textual entailment formulation.
+
+Drozdov et al. 2019) - Deep inside-outside recursive autoencoder for WSJ Penn Treebank
+span constraints for unsupervised constituency parsing
+LexSubCon is an end-to-end lexical substitution framework based on contextual embedding models.
+mixed-domain transfer learning for COVID-19 social media data.
+Using a BERT-based prediction model, we identify health advice sentences in structured abstracts in PubMed publications.
+Meta-learning: Learning to Learn
+Instance attributions: a new approach to deep learning
+Blank Language Model (BLM) - Blank Language Model for Text Editing and Rewriting
+Observational study of code-switching in bilingual written conversation.
+Entity Matching (EM) is a new form of Neural Entity Matching (Neural Entity Matching).
+a neural editor model to analyze glyph shapes in printed Early Modern documents.
+Pre-training models have achieved great success in dialogue generation. but their performance drops dramatically when the input contains an entity that does not appear in pre-training and fine-tuning datasets (unseen entity) instead of introducing knowledge base as the input, we force the model to learn a better semantic representation by predicting the information in the knowledge base.
+Using neural MT in professional translation
+Hierarchical Context-aware Network for Dense Video Event Captioning
+MATE-KD is a novel text-based adversarial training algorithm which improves the performance of knowledge distillation.
+MTM is a new reranker to rank FC-articles using key sentences. claims are often quoted to describe checked events. sentence templates to introduce or debunk claims are common across articles.
+thematic coherence in microblog clusters - a task for evaluating thematic coherence.
+Mutual Information for Training Dialog Understanding
+InstaMap is a non-parametric instance-based method for learning projection-based cross-lingual word embeddings.
+SUM-QE: A Novel Quality Estimation Model for Summarization based on BERT
+BLEU: a BLEU-based NLP-based Machine Translation from English to 10 Different Languages
+Active2 Learning (A2L): A Novel Approach to Deep Learning
+Recursive noun phrases have interesting semantic properties.
+Cross-lingual Encoder-Decoder Model for Semantic Role Labeling
+Pretraining Losses for Spoken Dialogue Systems
+CLEVE: A Contrastive Pre-Training Framework for Event Extraction
+RCMD: a Comparative Learning Framework for Sentence Similarity Detection
+Relation extraction with distant supervision
+Towards a Gender-Based Word Embedding
+Sentiment Knowledge Enhanced Pre-training
+Auto-Debias: A Novel Approach to Debiasing Pretrained Language Models
+Natural Language premise Selection
+Linguistic steganography studies how to hide secret messages in natural language cover texts.
+ELMo: A Contextualized Word Vector Analysis
+BUCC shared task: a novel method to extract parallel sentences from two monolingual corpora, using neural machine translation
+Non-tree argument mining
+Smart-To-Do: A New Task Management Application
+Meta-transfer Learning: A Meta-Transfer Learning Approach
+Layerwise Relevance Propagation over a linguistically motivated neural architecture, the Kernel-based Deep Architecture, is a method to trace back connections between linguistic properties of input instances and system decisions.
+Slang is a predominant form of informal language making flexible and extended use of words.
+KIEMP: Keyphrase Importance Estimation from Multiple Perspectives
+Deep transformer models have pushed performance on NLP tasks to new limits, suggesting sophisticated treatment of complex linguistic inputs, such as phrases.
+Self-talk: An Unsupervised Framework for Commonsense Reasoning
+Towards a Fine-Grained Evaluation of Chinese Word Segmentation (CWS) Systems
+Data sharing is a common problem in NLP, but there is limited research on source-free domain adaptation. We take algorithms that traditionally assume access to source-domain training data and adapt them for source-free domain adaptation.
+WikiCREM (Wikipedia CoREferences Masked) - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM - WikiCREM
+knowledge-grounded conversational models suffer from producing factually invalid statements. hallucination due to the training data, or to the models?
+Cherokee, a severely-endangered Native American language, is a case study.
+OSCAR-based contextualized word embeddings for five mid-resource languages. We train monolingual embeddings for part-of-speech tagging and parsing tasks.
+Adversarial Reprogramming: A Novel Approach to NLP Task-Specific Word Embeddings
+Using a novel method for extracting date-time entities from text.
+Paraphrase generation using retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval-based retrieval
+Non-parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Parameterized Non-Para
+VERNet for Grammatical Error Correction
+DiCoS-DST to dynamically select the relevant dialogue contents corresponding to each slot for state updating. DiCoS-DST is a new state-of-the-art approach to dialogue state tracking.
+Context gates are effective to control the contributions from the source and target contexts in the recurrent neural network based neural machine translation (NMT)
+a large-scale, systematic study to evaluate the existing evaluation methods for natural language generation in the context of generating online product reviews.
+Probabilistic models of directed acyclic graphs
+CodRED is the first human-annotated cross-document RE dataset. it is a human-annotated dataset.
+Using labeled documents as classification data, we train classification models on unlabeled data.
+Towards a generative paraphrase generation system, we propose the first end-to-end conditional generative architecture for generating paraphrases via adversarial training.
+OpenIE6: An Iterative Grid Labeling-Based Coordination Analysis
+Talk2Car dataset: a dataset for object referral in self-driving cars.
+LSTM based attention distributions can be considered a faithful and plausible explanation of a model’s predictions.
+Using conditional generative-discriminative hybrid losses, we fine-tune a trained machine translation model.
+Conditional bilingual mutual information (CBMI) is a target-context-aware metric.
+BERT for Language Generation: A Novel Approach
+CopyAttention is a sequence generation OpenIE model. CopyAttention produces a constant number of extractions per sentence.
+TextING for inductive text classification via Graph Neural Networks
+FewVLM is a prompt-based low-resource learning of VL tasks with prompt-based learning. It is a new method to improve prompt-based learning of VL tasks.
+Semantic Parsing: A Non-Autoregressive Approach
+gSCAN: A General-purpose Transformer-Based Model with Cross-modal Attention
+Sentence BERT: A Novel Unsupervised Learning Objective
+DAIS: A Large Benchmark Dataset containing 50K Human Judgments for 5K Differential Arguments in the English dative Alteration
+Confidence calibration is important for neural machine translation (NMT) because it is able to offer useful indicators of translation errors in the generated output.
+South Asian language technology is a complex and diverse field.
+
+paired-permutation test: an efficient exact algorithm for the paired-permutation test
+HatemojiCheck is a test suite of 3,930 short-form statements that allows us to evaluate performance on hateful language expressed with emoji. To address these weaknesses, we create the HatemojiBuild dataset using a human-and-model-in-the-loop approach.
+Sentence order prediction is the task of finding the correct order of sentences in a randomly ordered document.
+NDH-Full: A New Task for Vision-and-Dialogue Navigation
+Bibsonomy, Wikipedia, and social bookmarking are examples of such tasks. We propose a submodular maximization framework with linear cost to find informative labels which are most relevant to other labels yet least redundant with each other.
+sarcasm generation using a literal negative opinion as input.
+characterization scores among short texts are characteristic of a particular person. characterization scores are correlated with popularity of tweets.
+Multi-encoder models aim to improve translation quality by encoding document-level contextual information alongside the current sentence.
+Acc@10 is 28%, compared to 3% for the general domain.
+scheduled sampling algorithms suffer from exposure bias in machine translation. scheduled sampling assumes that words in the reference translations and in sampled sequences are aligned. our approach addresses this issue by optimizing the probability that the reference can be aligned with the sampled output.
+Smart-Start decoding is a novel method for predicting the decoding order of a word.
+ADEPT is a large-scale semantic plausibility task consisting of over 16 thousand sentences that are paired with slightly modified versions obtained by adding an adjective to a noun.
+Label Semantic Aware Pre-training
+X, Y: is-a-relationship detection in large textual corpora
+Crowdsourcing: Paraphrasing in Bot Development
+Learner English: An Annotated Error Causes for Learner Writing Errors
+CompareNet: A Novel End-to-End Graph Neural Model for Fake News Detection
+Contextual Action Language Model (CALM) for Text-Based Games
+Using attribution scores as an explanation method, researchers have developed a variety of methods to evaluate models. However, some crucial logic traps in these methods are ignored in most works.
+IIRC: A Dataset with 13K Questions Over Paragraphs from English Wikipedia.
+weakly supervised learning enables training high-quality text classifiers by only providing a few user-provided seed words.
+Transformer-based copy mechanism.
+u.s.-based semantic tagging scheme aims to provide lightweight unified analysis for all languages. but the feasibility is only examined in four Indo–European languages. u.s.-based semantic tagging is a new approach to semantic tagging.
+Phrase-BERT: A Novel Fine-Tuning Objective
+Modern Machine Translation (MT) systems perform remarkably well on clean, in-domain text. However most of the human generated text is full of typos, slang, dialect, idiolect and other noise which can have disastrous impact on the accuracy of MT.
+Gender is widely discussed in the context of language tasks and when examining the stereotypes propagated by language models. However, current discussions primarily treat gender as binary, which can perpetuate harms such as the cyclical erasure of non-binary gender identities.
+BERTC: Pretrain a CNN with Transformer-based language models
+Cross-Lingual BERT Transformation
+Specifically, we explore the advantage of counterfactual reasoning, over associative reasoning typically used in attention supervision.
+Syntax-aware Attention: Syntax of Text: A Syntax-Aware Approach
+Coupled-VAE: A Coupled Variational Autoencoder for Variational Autoencoding
+Towards a Human-like Performance of Automatic stance Classification on Social Media
+GANs are a promising approach for text generation that does not suffer from “exposure bias”.
+AdaND is an adaptive Neural conversation generation model. it generates parameters for various conversations with conversation-specific parameterization.
+Using Bayesian statistical model comparison technique, we rank six English part-of-speech taggers across two data sets and three evaluation metrics.
+Subword Language Models for Fast and Accurate Generating of Queries
+MIMIC-III: A Clinical NLP Model Fairness Study
+Using a pre-trained word vector space, we investigated the distribution of word vectors belonging to a certain word class. We made several assumptions about the distribution, modeled the distribution accordingly, and validated each assumption by comparing the goodness of each model.
+Detecting Misinformation at the Cross-document Level
+Using declarative knowledge of fine-grained propaganda detection, we use first-order logic and natural language to inject declarative knowledge.
+Neural Machine Translation (NMT) models are sensitive to small perturbations in the input. Robustness to perturbations is typically measured using translation quality metrics such as BLEU on the noisy input.
+Identity fraud detection in loan applications is of great importance in many real-world scenarios such as the financial industry.
+Syntactic structure is an important component of natural language text. Tree-structured self-attention models can boost performance in Answer Sentence Selection (AS2) without transfer learning.
+BeamDR: A Multi-Step Retrieval Approach to Evidence Chains
+Visual Dialog is a multimodal task of answering a sequence of questions grounded in an image.
+weakly-supervised method for training deep learning models for the task of ad-hoc document retrieval
+Personalization of Natural Language Generation
+SciNLI is a large dataset for NLI that captures the formality in scientific text. SciNLI contains 107,412 sentence pairs extracted from scholarly papers on NLP and computational linguistics.
+Using dense captions, we find the temporally relevant information to answer questions on videos.
+
+Relative Utterance Quantity (RUQ) for the ‘I don’t know’ problem
+Compositional generalization in neural networks
+Cross-Lingual Event Detection
+DNE is a randomized method for training a robust model to defense synonym substitution-based attacks.
+.................................................
+.................................................
+Neural Personal Discrimination
+CG grounded dialog policy aims to foster a more coherent and controllable dialog. vertices to represent “what to say” and “how to say” and edges to represent natural transition between a message and its response.
+large-scale Vietnamese-English parallel dataset of 3.02M sentence pairs. 2.9M pairs larger than benchmark Vietnamese-English machine translation corpus IWSLT15. mBART is the best-trained auto-encoder for denoising auto-encoder.
+Sentiment analysis has attracted increasing attention in e-commerce. The sentiment polarities underlying user reviews are of great value for business intelligence.
+Polyjuice: A General-purpose Counterfactual Generator
+Using a neural hidden semi-markov model, we propose response generation with both paired and unpaired data.
+TEMP: Self-supervised Taxonomy Expansion
+Using a grounded neural dialogue model, we evaluate on the OneCommon spatial grounding dialogue task (Udagawa and Aizawa 2019).
+Unsupervised Bilingual Lexicon Induction without any Parallel Corpus
+CHARM: A Zero-Shot Learning Method
+Negative polarity item (NPI) licensing: a case study for five experimental methods.
+Aspect-based sentiment analysis aims to determine the sentiment polarity towards a specific aspect in online reviews.
+self-attention networks can be easily parallelized at sequence level. the computational complexity of a self-attention network is only O(n2)
+Style transfer aims to rewrite a source text in a different target style while preserving its content.
+Visual question answering aims to answer the natural language question about a given image. Existing graph-based methods only focus on the relations between objects in an image and neglect the importance of the syntactic dependency relations between words in a question.
+News headline generation aims to produce a short sentence to attract readers to read the news. one news article often contains multiple keyphrases that are of interest to different users. generating multiple headlines with keyphrases of interest to users for the news first.
+span-based named entity recognition
+UXLA: Unsupervised Data augmentation for Zero-Resource Transfer Learning
+Pretrained Language Models: A Novel Approach to Pretrained Modeling
+Unsupervised Dependency Graph Network
+PermuteFormer: PermuteFormer for Long-Range Arena
+Detecting fine-grained semantic divergences
+ARAML: Adversarial Reward Augmented Maximum Likelihood
+PRBoost: A New Approach to Labeling Rules
+Cross-lingual summarization (CLS) is the task to produce a summary in one particular language for a source document in a different language. Existing methods simply divide this task into two steps: summarization and translation. Moreover, we propose to further improve NCLS by incorporating two related tasks, monolingual summarization and machine translation, into the training process of CLS.
+Detecting rumors on social media is a critical task with significant implications to the economy, public health, etc.
+Virtual Data Augmentation (VDA)
+dyadic causes are correlated with conflict between two entities. systemic causes are correlated with conflict between two entities.
+Event Graph Schema: Path Language Model
+Relation Extraction (RE) - Relation Extraction for Syntactic Information Injection
+SAT: a sub-exponential time algorithm for SAT.
+Natural language video localization (NLVL) is a task to locate a matching video span from an untrimmed video and a text query. Existing solutions formulate NLVL either as a ranking task and apply multimodal matching architecture, or as a regression task to directly regress the target video span.
+a new study aims to understand the meaning of ungrammatical sentences. the results are based on a dataset of pre-trained pre-trained NLU models. the results are available at https://github.com/facebookresearch/unlu.
+Various measures have been proposed to quantify human-like social biases in word embeddings. However, bias scores based on these measures can suffer from measurement error. In this paper, we assess three types of reliability of word embedding gender bias measures, namely test-retest reliability, inter-rater consistency and internal consistency.
+40 hours) of stand-up comedy clips are used to train a humour-annotated dataset. The dataset is released for further research along with the code.
+EPiDA is a plug-in data augmentation framework for effective text classification.
+Adapted to Sequence-to-Sequence Generation, Language Flow Model
+DeeBERT is a deep transformer-based inference method.
+
+Perplexity of neural LMs is strongly and differentially associated with lexical frequency.
+FrameNet semantic frame disambiguation of over 5,000 word-sentence pairs from the Wikipedia corpus.
+Distant supervision for relation extraction
+Source Code Summarization is the task of writing short, natural language descriptions of source code.
+DialogVED: DialogVED Pre-Training Framework
+Faster R-CNN for document layout detection
+MT evaluation of cross-lingual encoders. reference-free machine translation
+
+Towards a more affluent gender bias model, we present a method to identify gender bias against women at a comment level.
+Semantic Parsing in Task-Oriented Conversational Systems
+Towards a Time-Grounded Alignment Network
+Contextualized word embeddings are adapted by masked language modeling on text from the target domain.
+Despite efforts to distinguish three different evaluation setups, numerous end-to-end Relation Extraction (RE) articles present unreliable performance comparisons to previous work.
+a hybrid semantic parsing approach for natural language variation is proposed. the hybrid approach NQG-T5 is a high-precision grammar-based approach. it outperforms existing approaches across several compositional generalization challenges.
+RoBERTa, BERT and DistilBERT are finetuned to represent lexical and compositional information.
+CR: A New Approach to Entity Coreference Resolution
+Meaning conflation deficiency is one of the main limiting factors of word representations.
+VisualSparta is a novel (Visual-text Sparse Transformer Matching) model for text-to-image retrieval.
+CKY-based coordination boundary identification
+LogicalFactChecker is a neural network approach capable of leveraging logical operations for fact checking. It is based on TABFACT, a large-scale, benchmark dataset built for verifying the correctness of a textual statement with semi-structured tables.
+Homophony’s widespread presence in natural languages is a controversial topic.
+CMGE is a multi-granularity graph supporting facts extraction method. It is based on a multi-granularity graph supporting facts extraction.
+Neural discrete reasoning (NDR) has shown remarkable progress in combining deep models with discrete reasoning. However, existing NDR solution suffers from large performance drop on hypothetical questions.
+Translational NLP aims to structure and facilitate the processes by which basic and applied NLP research inform one another.
+Unsupervised Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis
+UID is an inductive bias for statistical language modeling.
+Pretrained Transformers Improve Contextual OOD Detection
+SentAugment is a data augmentation method which computes task-specific query embeddings from labeled data.
+BBAEG: Biomedical BERT-based Adversarial Example Generation
+Counterfactual Information Extraction (CFIE) aims to uncover the main causalities behind data in the view of causal inference.
+Using a cross-lingual data selection method, we extract in-domain sentences in the missing language side from a large generic monolingual corpus.
+MiSAD is a pre-trained language representation learning objective.
+DocEE is a document-level event extraction dataset. DocEE includes 27,000+ events, 180,000+ arguments.
+CAST is a new model for code summarization.
+NER-ALT: A Conditional Hidden Markov Model
+Re2G is a BART-based sequence-to-sequence generation system. Re2G is a novel variation of knowledge distillation.
+Attention Head Masking: A Simple-Yet-Effective Approach to Inference Time - A Novel Approach
+open-domain multi-answer questions are likely to be open-ended and ambiguous, leading to multiple valid answers. existing approaches typically adopt the rerank-then-read framework, where a reader reads top-ranking evidence to predict answers.
+NeuralWOZ: A Novel Dialogue Collection Framework
+MULTI-EURLEX is a dataset for topic classification of legal documents. The dataset comprises 65k EU laws, officially translated in 23 languages, annotated with multiple labels from the EUROVOC taxonomy.
+Towards a Neural Co-Generation Model for Task-Oriented Dialogue Systems
+EEG-based Part-of-Speech Decoding Techniques
+Non-Autoregressive Unsupervised Summarization
+Pretraining-Agnostic Identically Distributed (PAID) evaluation paradigm. Pretraining-Agnostic Identically Distributed (PAID) evaluation paradigm.
+AVA is an automatic evaluation approach for Question Answering. AVA can estimate system Accuracy.
+Machine learning for Alzheimer’s Disease
+toxicity prediction and sentiment analysis are the first steps in NLP pipelines to address undesirable biases towards mentions of disability. topical biases in the discourse about mental illness may contribute to the observed model biases.
+Gazetteer-Enhanced Attentive Neural Networks
+CPTP: Charge-Based Prison term Prediction
+HMCEval is a human-machine collaborative framework for dialogue evaluation. it is based on a sample assignment problem.
+split-antecedent anaphora: a new system for resolving single- and split-antecedent anaphora
+masked sequence-to-sequence model for non-autoregressive machine translation
+Cross-lingual summarization aims at summarizing a document in one language (e.g., Chinese) into another (e.g., English).
+
+BaryScore is a metric to evaluate text generation based on deep contextualized embeddings.
+
+
+Multilingual Text-to-Text Transfer Transformer with Translation Pairs
+Knowledge Distillation (KD) in BERT Compression
+CRF based neural models are among the most performant methods for solving sequence labeling problems. However, CRF has the shortcoming of occasionally generating illegal sequences of tags.
+
+
+EEG-based language models are used to study language comprehension. We show for the first time that all of the ERPs are predictable from embeddings of a stream of language.
+DirectProbe: A Heuristic to Study the Geometry of Contextualized Embeddings
+Towards same side stance classification (S3C)
+Model-based, reference-free evaluation metrics of summarization and dialoggeneration have been proposed as a fast and cost-effective way to evaluate NLG systems.
+FactPEGASUS: Factual Summarization
+Coreference resolution is an important compo-nent in analyzing text data about LGBT individuals.
+Towards a Conversation Initiator: A New Approach to Generating Initial utterances
+Personalized word embeddings for subjective text classification
+ReGen is a bidirectional generation of text and graph leveraging Reinforcement Learning to improve performance.
+Language Models for Few-Shot Semantics
+Abstractive document summarization is usually modeled as a sequence-to-sequence (SEQ2SEQ) learning problem. However, pre-training large SEQ2SEQ based abstractive document summarization models on limited supervised summarization data is challenging.
+Quantum physics: A Complex-Valued Network for Matching
+Discontinuous constituent parsing is a new form of discontinuous constituent parsing. Discontinuous constituent parsing is a new form of discontinuous constituent parsing.
+AttentiveChecker: Bi-Directional Attention Flow
+Knowledge Distillation Based Training Strategy
+Prosody: a Turn Based Parser for Parsing Disfluent Speech
+Neighborhood Matching Network (NMN) is a novel entity alignment framework for tackling the structural heterogeneity challenge.
+Language models can perform subject-verb agreement given difficult contexts.
+Towards a More Robust Comparison of Contrast Sets
+Abstractive summarisation is notoriously hard to evaluate since standard word-overlap-based metrics are insufficient.
+Neural machine translation for Grammatical Error Correction
+IU X-Ray and MIMIC-CXR - Cross-modal Memory Networks for Radiology Report Generation
+inference by iterative shuffling: a new, efficient procedure that finds word ordering having the highest likelihood. a black-box word ordering algorithm can be used without additional training.
+T3QA (Topic Transferable Table Question Answering) - A Topic-Split Benchmark for TableQA
+Multi-task Negation for Targeted Sentiment Analysis
+Abstract: This paper proposes a novel mechanism to enable conventional KV-MemNNs models to perform interpretable reasoning for complex questions.
+Automated Veracity Assessment - A Novel Approach
+Pretrained Transformer-based Language Models for Argument Mining
+'big','small' gradable adjectives can be learned from visual contexts. multi-modal models can learn subtending the meaning of size adjectives.
+RSA is a technique developed by neuroscientists for comparing activity patterns of different measurement modalities. RSA does not require large training samples, is not prone to overfitting, and it enables a more transparent comparison between representational geometries of different models and modalities.
+joint learning framework for complex, multi-turn dialogue understanding
+RevGAN: A Novel Model for Generated User Reviews
+idiom-based decoding improves the SOTA by 2.2% BLEU and 0.9% exact match.
+Phylogenetic Tree Learning for Multi-lingual Dependency Parsers
+Targeted Sentiment Analysis (TSA) is a central task for generating insights from consumer reviews. Targeted Sentiment Analysis (TSA) is a central task for generating insights from consumer reviews.
+
+HetFormer is a pre-trained pre-trained pre-trained pre-trained model with multi-granularity sparse attentions for extractive summarization.
+Topological Data Analysis (TDA) for Artificial Text Detection
+cross-language differences in (universal) dependency parsing performance are mostly attributed to treebank size. average sentence length, average dependency length, morphological complexity, and domain differences.
+Using both automatic and human evaluations, we evaluated two very different English datasets (WEBNLG and WSJ) and evaluated each algorithm using both automatic and human evaluations.
+T5 Models in Few-Shot Data-to-Text Tasks
+Graph Neural Networks: A Novel Neural Graph Rewriting System for English Resource Semantics
+MaxSAT is a weighted version of MaxSAT that connects deep neural networks and a graphical model in a joint framework.
+Detecting out-of-domain (OOD) intents is crucial for the deployed task-oriented dialogue system.
+emojis and emotions: a new dataset
+Multiple TimeLine Summarization
+recurrence modeling for machine translation
+EPT-X model: An explainable neural model that uses natural language explanations to solve algebraic word problem.
+Entity representations are useful in natural language tasks involving entities. In this paper, we propose new pretrained contextualized representations of words and entities.
+ConvAI: a ConvAI-based Conversational AI System
+Berkeley Crossword Solver - Automatically Solving Crossword Puzzles
+Personal experiences and stories can play a crucial role in argumentation. they are easy to understand and increase empathy. this makes them powerful in argumentation.
+Pretrained language models (PTLMs) contain significant amounts of world knowledge. However, they can still produce inconsistent answers when probed.
+a systematic study on multilingual and cross-lingual intent detection from spoken data. the study leverages a new resource put forth in this work, called MInDS-14. it covers 14 intents extracted from a commercial system in the e-banking domain.
+Summarization models are a powerful tool for understanding their behavior. we first analyze the summarization model’s behavior by ablating the full model. we then explore interpreting these decisions using several different attribution methods.
+Cross-lingual entity alignment (EA) aims to find the equivalent entities between crosslingual KGs (Knowledge Graphs).
+JET: A Model for Incomplete utterance Restoration
+Semi-parametric Neural Machine Translation
+MultiDoc2Dial: A Task and Dataset on Document-Grounded Dialog Modeling
+
+Softmax: Multi-Facet Softmax
+Factuality Assessment: Speculative Contextual Dependencies
+Language models are generally trained on data spanning a wide range of topics (e.g., news, reviews, fiction), but they might be applied to an unknown target distribution (e.g., restaurant reviews).
+KGs are a large-scale knowledge graphs (KGs) based on large-scale knowledge graphs (KGs).
+Task-oriented dialog systems need to know when a query falls outside their range of supported intents.
+Entities and relations are represented by squares and rectangles in a table.
+Semantic augmentation for social media content
+This paper proposes to adapt self-attention to discourse level for modeling discourse elements in argumentative student essays
+In this work, we study the BERT family and use two probing techniques to analyze how fine-tuning changes the underlying embedding space.
+Semantic Text Exchange
+Pruning Blocks: A Block-Purifying Approach for Classification and Generation
+mBERT and XLM-R have shown impressive cross-lingual ability. However, both of them use multilingual masked language model (MLM) without any cross-lingual supervision or aligned data.
+
+We develop a formal hierarchy of the expressive capacity of RNN architectures. We show how these models are expanded by stacking multiple layers or composing them with different pooling functions.
+BLEU score and response diversity measures are used to evaluate the effectiveness of our system.
+Using a data-driven approach, we decode the impact of legislation on relevant stakeholders (e.g., teachers in education bills) to understand legislators’ decision-making process and votes.
+
+Coherence evaluation of machine generated text
+Select-Guide-Generate (SGG): Select-Guide-Generate for Present and Absent Keyphrase Generation
+a new method for projective dependency parsing based on headed spans. We propose a new method for projective dependency parsing based on headed spans.
+Bitext mining in a multilingual sentence space.
+equivariance learning for table-to-text generation
+a novel method for investigating the inductive biases of language models using artificial languages. LSTMs display little preference with respect to word ordering, while transformers display a clear preference for some orderings over others.
+Using Fillers in Spoken Language Understanding (SLU)
+Using multilingual word embeddings to learn cross-lingual NLP tasks
+Pre-training in natural language processing makes it easier for an adversary to reconstruct a local copy of the victim by training with gibberish input data paired with the victim’s labels for that data.
+Intent detection is one of the core components of goal-oriented dialog systems.
+Vocabulary selection is a well-known technique to improve latency of Neural Machine Translation models by constraining the set of allowed output words during inference. The chosen set is typically determined by separately trained alignment model parameters, independent of the source-sentence context at inference time.
+NEuRoparl-ST: A Benchmark for Speech Translation
+Using a simple contrastive learning framework, LOVE, we extend the word representation of an existing pre-trained language model (such as BERT) and make it robust to OOV with few additional parameters.
+Distant supervision has obtained great progress on relation classification task. However, it still suffers from noisy labeling problem.
+general rebuttals are used to address long argumentative texts. they overcome the need for topic-specific arguments to be provided. the results are freely available for research.
+FreebaseQA: A Data Set for Open-Domain Factoid Question Answering
+Convolutions and Self-attention in Natural Language Tasks
+ExtEnD: Local Local Models for Entity Disambiguation
+capsule network for sentiment classification
+n-grams features are extracted from recurrent neural networks (RNNs) to model interesting linguistic phenomena.
+Summarization of Abstractive Summarization
+Pre-trained contextual vision-and-language (V&L) models have achieved impressive performance on various benchmarks. However, existing models require a large amount of parallel image-caption data for pre-training.
+Doc2hash: A Novel Approach to Learning to Hash via generative Model
+NLU benchmark dataset: a new large-scale NLI benchmark dataset
+low-resource translation systems for 16 African languages are mostly left out in these datasets. low-resource languages are mostly left out in these datasets. this work investigates how to optimally leverage existing pre-trained models.
+TALLOR: A Novel Method for Building Entity Taggers
+BAMnet: A Bidirectional Attentive Memory Network
+Cross-lingual semantic role labeling
+Annotation of Misogynistic Language in Online Social Media
+Multilingual Amazon Reviews Corpus (MARC) - Large-scale Multilingual Text Classification
+Recurrent Neural Network Grammars
+IndoNLG is the first benchmark to measure natural language generation (NLG) progress in three low-resource languages of Indonesia. Javanese, Indonesian, and Sundanese are widely spoken.
+'Circa' is a large-scale English language corpus with 34,268 (polar question, indirect answer) pairs.
+Chinese short text matching is a common practice. However, Chinese word segmentation can be erroneous, ambiguous or inconsistent, which consequently hurts the final matching performance.
+Gibbs sampling for graphical and neural networks
+implicitly abusive sentences on identity groups are utterances not conveyed by abusive words (e.g. “bimbo” or “scum”).
+The problem of learning to translate between two vector spaces given a set of aligned points arises in several application areas of NLP. Current solutions assume that the lexicon which defines the alignment pairs is noise-free.
+Reading comprehension models have been successfully applied to extractive text answers, but it is unclear how best to generalize these models to abstractive numerical answers.
+ACE04, ACE05 and SciERC - a simple pipelined approach for entity and relation extraction
+Negative Training: A Novel Approach
+a hybrid of both approaches is best, outperforming several strong baselines.
+G2LC: Unsupervised Paraphrase Generation
+Fine-tuned Language Models - Upstream Bias Mitigation
+Sparse models require less memory for storage and enable a faster inference by reducing the necessary number of FLOPs.
+Graph neural network-based extraction from webpages with previously unseen template.
+Question answering (QA) primarily descends from two branches of research: (1) Alan Turing’s investigation of machine intelligence at Manchester University and (2) Cyril Cleverdon’s comparison of library card catalog indices at Cranfield University.
+DocRepair: a monolingual sequence-to-sequence model to correct inconsistencies. the model is based on a monolingual sequence-to-sequence model. the model is based on a monolingual sequence-to-sequence model.
+Lifelong Language Knowledge Distillation (L2KD) - A Simple but Effective Method
+LAReQA is a new cross-lingual evaluation task. it tests for “strong” cross-lingual alignment.
+. Transfer learning that adapts a model trained on data-rich sources to low-resource targets has been widely applied in natural language processing (NLP).
+AMR Coreference Resolution Model
+POINTER: Progressive Insertion-Based TransformER
+Graph embeddings in NLP: a Novel Approach
+
+Using a machine-learning approach, we identify fine-grained lexical distinctions between vocabulary items.
+Zero-shot transfer learning for multi-domain dialogue state tracking
+MVEC: Unsupervised Cross-lingual Sentiment Classification
+Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract: Abstract:
+dice loss is a new approach to improve data-imbalanced NLP tasks. the dice loss approach is based on the Srensen--Dice coefficient or Tversky index. the results are compared with the standard cross-entropy objective.
+.................................................
+Text generation requires high-precision output that obeys task-specific rules. This fine-grained control is difficult to enforce with off-the-shelf deep learning models.
+Derivation leveraging BERT
+Towards a New Dialogue Response Generation Framework
+Transformer: A Transformer-Based Summarization Approach

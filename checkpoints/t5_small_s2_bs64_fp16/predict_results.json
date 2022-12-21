@@ -1,0 +1,13 @@
+{
+    "predict_bertscore": 0.8477,
+    "predict_gen_len": 98.7384,
+    "predict_loss": 4.2890625,
+    "predict_rouge1": 18.1715,
+    "predict_rouge2": 6.6934,
+    "predict_rougeL": 14.9817,
+    "predict_rougeLsum": 15.0167,
+    "predict_runtime": 19.6055,
+    "predict_samples": 558,
+    "predict_samples_per_second": 28.461,
+    "predict_steps_per_second": 0.459
+}

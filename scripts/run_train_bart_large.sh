@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -m paper_title_generation.src.train --model_name="facebook/bart-large" --test_output_file_name="paper_title_generation/checkpoints/bartlarge/test_output.txt" --finetune_weight_path="paper_title_generation/checkpoints/bartlarge" --init_lr=1e-5 --best_finetune_weight_path="paper_title_generation/checkpoints/bartlarge/best"
